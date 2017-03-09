@@ -1,7 +1,7 @@
 {
-  "name": "blackbaud-skyux-spa-golf-card-game",
+  "name": "blackbaud-skyux-spa-blackjack",
   "version": "0.0.1",
-  "description": "Single-page-application for skyux-spa-golf-card-game",
+  "description": "Single-page-application for skyux-spa-blackjack",
   "main": "index.js",
   "engines": {
     "node": ">=6.3.1"
